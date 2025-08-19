@@ -1,0 +1,24 @@
+back = //
+
+start = enter
+guide = esc
+
+a = b
+b = a
+x = y
+y = x
+
+l1 = l
+
+l2 = l
+l2 = add_alt
+
+r1 = r
+
+r2 = r
+r2 = add_alt
+
+up = up
+down = down
+left = left
+right = right
